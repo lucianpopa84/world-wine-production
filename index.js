@@ -1,5 +1,5 @@
-const xValues = ["Italy", "France", "Spain", "Moldavia"];
-const yValues = [55, 49, 44, 4, 0];
+const xValues = ["Italy", "France", "Spain","Moldavia", "Romania"];
+const yValues = [55, 49, 44, 4, 5, 0];
 const barColors = ["red", "green","blue","orange","brown"];
 
 new Chart("myChart", {
